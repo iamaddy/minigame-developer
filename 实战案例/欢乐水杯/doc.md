@@ -89,7 +89,11 @@ graphics.fill();
 <center><img src="images/image.png" alt="jpg name" style="width: 30%;max-width: 30%;"/></center>
 
 视频效果如下：
-<video src="images/水滴.mov" controls="controls" width="500" height="300"></video>
+
+
+https://github.com/user-attachments/assets/5f5a6715-471a-4e24-9059-c8a256bc4b28
+
+
 
 欢迎关注我的公众号【入门游戏开发】，获取更多游戏开发知识和游戏源码，手把手教你做游戏。         
 <center><img src="/实战案例/images/qr.png" alt="jpg name" style="width: 50%;max-width: 50%;"/></center>
