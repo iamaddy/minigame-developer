@@ -89,8 +89,7 @@ graphics.fill();
 <center><img src="images/image.png" alt="jpg name" style="width: 30%;max-width: 30%;"/></center>
 
 视频效果如下：
-
-https://github.com/iamaddy/minigame-developer/blob/0abe5ac08cf4d3995f0f707128d3205644e7337a/%E5%AE%9E%E6%88%98%E6%A1%88%E4%BE%8B/%E6%AC%A2%E4%B9%90%E6%B0%B4%E6%9D%AF/images/%E6%B0%B4%E6%BB%B4.mov
+<video src="images/水滴.mov" controls="controls" width="500" height="300"></video>
 
 欢迎关注我的公众号【入门游戏开发】，获取更多游戏开发知识和游戏源码，手把手教你做游戏。         
 <center><img src="/实战案例/images/qr.png" alt="jpg name" style="width: 50%;max-width: 50%;"/></center>
