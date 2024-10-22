@@ -90,3 +90,5 @@ graphics.fill();
 
 视频效果如下
 
+欢迎关注我的公众号【入门游戏开发】，获取更多游戏开发知识和游戏源码，手把手教你做游戏。         
+<center><img src="/实战案例/images/qr.png" alt="jpg name" style="width: 50%;max-width: 50%;"/></center>
