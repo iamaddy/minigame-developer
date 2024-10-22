@@ -86,8 +86,7 @@ graphics.fill();
 最后的效果如下：
 
 两个球之前黏连处就是模拟出来的路径。
-
-![](images/image.png)
+<center><img src="images/image.png" alt="jpg name" style="width: 30%;max-width: 30%;"/></center>
 
 视频效果如下
 
